@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Mi_proyecto_Final_Programacion</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="candado.png" />
+    <None Remove="nomina-definicion.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="candado.png" />
+    <Resource Include="nomina-definicion.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,24 @@
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\bin\Debug\net6.0-windows\Mi proyecto Final Programacion.exe
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\bin\Debug\net6.0-windows\Mi proyecto Final Programacion.deps.json
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\bin\Debug\net6.0-windows\Mi proyecto Final Programacion.runtimeconfig.json
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\bin\Debug\net6.0-windows\Mi proyecto Final Programacion.dll
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\bin\Debug\net6.0-windows\Mi proyecto Final Programacion.pdb
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion.csproj.AssemblyReference.cache
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion_MarkupCompile.cache
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion.g.resources
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion.AssemblyInfoInputs.cache
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion.AssemblyInfo.cs
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion.csproj.CoreCompileInputs.cache
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion.dll
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\refint\Mi proyecto Final Programacion.dll
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion.pdb
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Mi proyecto Final Programacion.genruntimeconfig.cache
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\ref\Mi proyecto Final Programacion.dll
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\MainWindow1.baml
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Window3.baml
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\MainWindow1.g.cs
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Window3.g.cs
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Bienvenida.baml
+C:\Users\leslie\source\repos\Mi proyecto Final Programacion\Mi proyecto Final Programacion\obj\Debug\net6.0-windows\Bienvenida.g.cs
